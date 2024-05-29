@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
         paddingHorizontal: 24,
         paddingBottom: 0,
         paddingTop: 24,
-        backgroundColor: GlobalStyles.colors.primary700
+        backgroundColor: GlobalStyles.colors.primary800
     },
 
     infoText: {
